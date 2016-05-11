@@ -1,1 +1,3 @@
-# quic-go-certificates
+# certsets
+
+Common certificate sets for quic-go
